@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hello, I'm Varsha Jolly Kattampally 👋
+
+### Aspiring Software Engineer | Data Enthusiast
+
+I'm a recent graduate with a Master of Science in Computer Science from the University of Colorado Boulder, with a strong passion for technology and data. I'm always excited to learn and grow in the field of software engineering, which is reflected in my repositories, where I continually explore new ideas and technologies.
+
+<a href="https://www.linkedin.com/in/varsha-j-k-65861017b"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&link=https%3A%5C%5Clinkedin.com"/> </a>
+![Email](https://img.shields.io/badge/varsha.kattampally@colorado.edu-red?logo=maildotru)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 <!--
 **Varsha-JK/Varsha-JK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
