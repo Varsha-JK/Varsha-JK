@@ -13,14 +13,9 @@ I'm a recent graduate with a Master of Science in Computer Science from the Univ
 ### Experienced with:
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Hadoop Ecosystem](https://img.shields.io/badge/Hadoop_Ecosystem-66CCFF?style=flat&logo=apache-hadoop&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-white?style=flat&logo=flask&logoColor=black) ![Snowflake](https://img.shields.io/badge/Snowflake-003C71?style=flat&logo=snowflake&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-## Currently Learning
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="100">
-
  > Actively expanding my knowledge in cloud computing by exploring AWS services - working on hands on projects to apply what I'm learning and preparing for AWS certification exams to validate my expertise.
 
-
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Varsha-JK&theme=radical&show_icons=true&include_all_commits=true&include_all_contributions=true">                          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varsha-JK&layout=donut&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varsha-JK&layout=donut&theme=radical">
 
 ## How to Reach Me
 
@@ -30,6 +25,13 @@ I'm a recent graduate with a Master of Science in Computer Science from the Univ
 
 
 <!--
+
+## Currently Learning
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="100">
+
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Varsha-JK&theme=radical&show_icons=true&include_all_commits=true&include_all_contributions=true">   
+
 **Varsha-JK/Varsha-JK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
