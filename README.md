@@ -2,7 +2,7 @@
 
 ## Aspiring Software Engineer
 
-I'm a recent graduate with a Master of Science in Computer Science from the University of Colorado Boulder. I have a strong passion for technology and data, and I'm always excited to learn and grow in the field of software engineering. I love exploring new ideas and technologies.
+I'm a Software Engineer with experience building and maintaining production backend systems and data pipelines in enterprise environments. With a strong background in Python-based services, containerized deployments, and cloud infrastructure, I've hands-on experience integrating AI-enabled services into backend and data workflows, including generating embeddings, indexing processed data, and supporting AI-backed applications on Azure. I am experienced in supporting and extending existing systems in fast-paced environments with evolving requirements, with a focus on correctness, performance, and reliability. I enjoy exploring new ideas and technologies, and people often describe me as a fast, adaptable learner.
 
 
 
