@@ -20,7 +20,7 @@ I'm a Software Engineer with experience building and maintaining production back
 ## How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/varsha-j-k-65861017b)
-![Email](https://img.shields.io/badge/varsha.kattampally@colorado.edu-red?logo=maildotru)
+![Email](https://img.shields.io/badge/varsha.kattampally@gmail.com-red?logo=maildotru)
 
 
 
