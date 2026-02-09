@@ -15,7 +15,7 @@ I'm a Software Engineer with experience building and maintaining production back
 
  > Actively expanding my knowledge in cloud computing by exploring AWS services - working on hands on projects to apply what I'm learning and preparing for AWS certification exams to validate my expertise.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varsha-JK&layout=donut&theme=radical">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varsha-JK&layout=donut&theme=radical"> -->
 
 ## How to Reach Me
 
