@@ -2,7 +2,7 @@
 
 ## Aspiring Software Engineer
 
-I'm a Software Engineer with experience building and maintaining production backend systems and data pipelines in enterprise environments. With a strong background in Python-based services, containerized deployments, and cloud infrastructure, I've hands-on experience integrating AI-enabled services into backend and data workflows, including generating embeddings, indexing processed data, and supporting AI-backed applications on Azure. I am experienced in supporting and extending existing systems in fast-paced environments with evolving requirements, with a focus on correctness, performance, and reliability. I enjoy exploring new ideas and technologies, and people often describe me as a fast, adaptable learner.
+I'm a Software Engineer with 4+ years of experience building and maintaining production-grade backend systems, data pipelines, and full-stack applications across enterprise and startup environments. I gave a strong background in Python, JavaScript, and relational databases, with hands-on experience in data modeling, RESTful API development, and integrating AI-enabled services into backend and data workflows. I'm experienced in cloud deployments (Azure and AWS fundamentals), containerized applications, and data-intensive systems, with a focus on scalability, performance, reliability, and maintainable architecture. I enjoy exploring new ideas and technologies, and people often describe me as a fast, adaptable learner.
 
 
 
